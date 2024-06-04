@@ -1,2 +1,2 @@
 # mit-datasci-program
-projects from MIT Professional Education Data Science Program 
+Projects from MIT Professional Education Data Science Program completed in April 2024
